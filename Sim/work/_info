@@ -1,0 +1,153 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/FPGA/HW01/Sim
+T_opt
+!s110 1710822633
+VK9^7dXTmg06HmjnBB;@]a1
+04 7 10 work uart_tb behavioral 1
+=1-088fc3de0d10-65f914e8-303-156c
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+Efifo
+Z1 w1710818649
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8../Source/FIFO.vhd
+Z7 F../Source/FIFO.vhd
+l0
+L6 1
+VXV`@KZP9Vl8W>:c>5;jcE3
+!s100 YC1oO?Pak^<=0<5KN:<EW0
+Z8 OL;C;2020.4;71
+33
+Z9 !s110 1710822632
+!i10b 1
+Z10 !s108 1710822631.000000
+Z11 !s90 -reportprogress|300|-2008|../Source/FIFO.vhd|../Source/UART.vhd|
+Z12 !s107 ../Source/UART.vhd|../Source/FIFO.vhd|
+!i113 0
+Z13 o-2008
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 4 fifo 0 22 XV`@KZP9Vl8W>:c>5;jcE3
+!i122 0
+l27
+L22 31
+V6:aNTbEk40ZU[lTh<Vee53
+!s100 S[5^05ZHJ8kXBaJ8;Q0aB2
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Euart
+Z15 w1710822557
+Z16 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+Z17 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R4
+R5
+!i122 0
+R0
+Z18 8../Source/UART.vhd
+Z19 F../Source/UART.vhd
+l0
+L6 1
+V7XF0n4T=@_2]V5k@2X6UA1
+!s100 NTfKZCbb<`:RjSdh<Pjkf0
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Abehavioral
+R16
+R17
+R4
+R5
+DEx4 work 4 uart 0 22 7XF0n4T=@_2]V5k@2X6UA1
+!i122 0
+l64
+L30 135
+VmBdIgMTVHbXc3kn_3R>gE1
+!s100 5GGLJ<iFAE69:RLW5N]130
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Euart_tb
+Z20 w1710661078
+R17
+R4
+R5
+!i122 1
+R0
+Z21 8../Test/UART_tb.vhd
+Z22 F../Test/UART_tb.vhd
+l0
+L5 1
+VEC?W7ge]LDUF_F6e;ObTL1
+!s100 dl]^<KU?G^maSQElPM@`91
+R8
+33
+R9
+!i10b 1
+Z23 !s108 1710822632.000000
+Z24 !s90 -reportprogress|300|-2008|../Test/UART_tb.vhd|
+Z25 !s107 ../Test/UART_tb.vhd|
+!i113 0
+R13
+R14
+Abehavioral
+R17
+R4
+R5
+DEx4 work 7 uart_tb 0 22 EC?W7ge]LDUF_F6e;ObTL1
+!i122 1
+l48
+L8 79
+V6hCWQU:fSN_Z1`Qj=WX`]3
+!s100 Y1J^7gV]CZnU0_Km]FZb?2
+R8
+33
+R9
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R13
+R14
